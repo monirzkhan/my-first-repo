@@ -1,5 +1,7 @@
 body{
     margin: 0px;
+    background-color: beige;
+    background-image: url(images/Background1.jpg);
 }
 
 #header {
